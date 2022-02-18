@@ -4,29 +4,27 @@
 
 ### Mogo Inc.
 
-"The company offers high interest loans, "identity fraud protection", mortgages, a Visa Prepaid Card, and credit score viewing through Equifax for select customers." [\[1\]](#1).
+"The company offers high interest loans, "identity fraud protection", mortgages, a Visa Prepaid Card, and credit score viewing through Equifax for select customers."<sup>[\[1\]](#1)</sup>.
 
-* **Company incorporated:** 2003 [\[2\]](#2)
-* **Founders of the company:** David Feller [\[3\]](#3) and Greg Feller
+* **Company incorporated:** 2003<sup>[\[2\]](#2)</sup>
+* **Founders of the company:** David Feller<sup>[\[3\]](#3)</sup>and Greg Feller
 
 ### The Founder Story:
 
-The Credit Crisis of 2008 effected the twin brothers, Dave and Greg Feller, very differently. However their experiences forged the early idea of Mogo Finance Technology Inc., originally catering to those users who wanted an alternative to the traditional bank. [\[4\]](#4)
+The Credit Crisis of 2008 effected the twin brothers, Dave and Greg Feller, very differently. However their experiences forged the early idea of Mogo Finance Technology Inc., originally catering to those users who wanted an alternative to the traditional bank.<sup>[\[4\]](#4)</sup>
 
 ### Funding:
 
-* Dec 2014: Mogo raised several venture capital rounds (Backed by Difference Capital). [\[5\]](#5)
+* Dec 2014: Mogo raised several venture capital rounds (Backed by Difference Capital).<sup>[\[5\]](#5)</sup>
 * Jun 2015: Mogo completed its IPO on the Toronto Stock Exchange, with total proceeds of C$50m.
 * Jun 2017: Mogo publicly issued $15m convertible debentures
-* Sep 2017: Secured an additional $40m from Fortress Investment Group in September, 2017.[\[6\]](#6)
+* Sep 2017: Secured an additional $40m from Fortress Investment Group in September, 2017.<sup>[\[6\]](#6)</sup>
 
 ## Business Activities:
 
-* **What specific financial problem is the company or project trying to solve?**
+### What specific financial problem is the company or project trying to solve?
 
-
-These are the below products that are offered as part of MogoAccount as of the time of writing this case study [\[7\]](#7)
-
+These are the below products that are offered as part of MogoAccount as of the time of writing this case study<sup>[\[7\]](#7)</sup>
 
 | Product | Description |
 | ------- | ----------- |
@@ -36,19 +34,33 @@ These are the below products that are offered as part of MogoAccount as of the t
 | MogoMoney | Online Personal Loans |
 | MogoMortgage | Smart Mortgage Solution |
 
-* **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
+### Target Customers
 
-In the early days, the company was geared towards customers who were looking for alternatives from the traditional banking institutions. 
-Nowadays, the company has broadened it's target customers to include anyone who is environmentally conscious. 
+In the early days, the company was geared towards customers who were looking for alternatives from the traditional banking institutions.
+Nowadays, the company has broadened it's target customers to include anyone who is environmentally conscious.
 
-* **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+### Competitive Advantage
 
-Mogo Inc appeals to its customers who are 
+* Mogo Inc appeals to its customers who are
 with its statements like environmentally conscious "Turn your every day purchases into climate action."
-There are not many companies in the personal finance space that focus on sustainability as their core.
-Additionally, most of Mogo Inc's offerings are either free or no-cost. This appeals to the the cost sensitive customers as well. 
+* There are not many companies in the personal finance space that focus on sustainability as their core.
+* Additionally, most of Mogo Inc's offerings are either free or no-cost. This appeals to the the cost sensitive customers as well.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
+### Technologies Used
+
+* Their frontend relies on Mobile Technology that works on both Android and iOS platforms
+* Amazon Web Services (or AWS) Public Cloud Infrastructure is used for the backend hosting as disclosed in their Privacy and Security Policy<sup>[\[8\]](#8)</sup>.
+Mogo Inc. works with several of its Partners<sup>[\[9\]](#9)</sup>to stitch together and package its offerings.
+   * Their Identity Verification Sign-up process relies on Onfido<sup>[\[10\]](#10)</sup>
+     * Onfido Technology Stack <sup>[\[11\]](#11)</sup> consists of:
+       * NGINX Frontend
+       * Amazon CloudFront Backend  
+   * Their Cryptocurrency Exchange is based on CoinSquare
+     * CoinSquare Technology Stack <sup>[\[12\]](#12)</sup> consists of:
+       * NGINX Frontend
+       * Google Cloud Platform Backend
+ * The Helpcenter is based on the Zendesk SaaS <sup>[\[13\]](#13)</sup> offering. This can be observed by looking at the CDN used for hosting assets in the Helpcenter webpage sourcecode
+   
 
 ## Landscape:
 
@@ -78,4 +90,9 @@ Additionally, most of Mogo Inc's offerings are either free or no-cost. This appe
 * <a id="5">[5]</a> Difference Capital [The Annual and Special Meeting of Shareholders](https://www.sec.gov/Archives/edgar/data/1602842/000147793219006239/mogo_ex410.htm)
 * <a id="6">[6]</a> News Wire [Mogo Secures New Credit Facility of up to $40 million from Fortress](https://www.newswire.ca/news-releases/mogo-secures-new-credit-facility-of-up-to-40-million-from-fortress-647762003.html)
 * <a id="7">[7]</a> Mogo Helpcentre: [Who is Mogo anyway?](https://helpcentre.mogo.ca/hc/en-us/articles/360042245353-Who-is-Mogo-anyway-)
-* 
+* <a id="8">[8]</a> Mogo [Privacy and Security Policy](https://www.mogo.ca/privacy-and-security-policy)
+* <a id="9">[9]</a> Mogo Helpcentre: [Mogo Partnerships](https://helpcentre.mogo.ca/hc/en-us/articles/4403928049427-Mogo-Partnerships)
+* <a id="10">[10]</a> Mogo Helpcentre: [Identity Verification MogoCard](https://helpcentre.mogo.ca/hc/en-us/articles/4408635504019-Identity-Verification-Mogocard)
+* <a id="11">[11]</a> Stackshare.io [Onfido](https://stackshare.io/onfido/onfido)
+* <a id="12">[12]</a> Stackshare.io [CoinSquare]https://stackshare.io/coinsquare/coinsquare-com
+* <a id="13">[13]</a> Stackshare.io [Zendesk](https://stackshare.io/zendesk#stacks)
