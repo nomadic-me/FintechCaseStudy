@@ -43,7 +43,10 @@ Nowadays, the company has broadened it's target customers to include anyone who 
 
 * **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 
-
+Mogo Inc appeals to its customers who are 
+with its statements like environmentally conscious "Turn your every day purchases into climate action."
+There are not many companies in the personal finance space that focus on sustainability as their core.
+Additionally, most of Mogo Inc's offerings are either free or no-cost. This appeals to the the cost sensitive customers as well. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
 
