@@ -25,8 +25,9 @@ The Credit Crisis of 2008 effected the twin brothers, Dave and Greg Feller, very
 * What specific financial problem is the company or project trying to solve?
 
 <br>
-These are the below products that are offered as part of MogoAccount as of the time of writing this case study [\[7\]](#7)
+These are the below products that are offered as part of MogoAccount as of the time of writing this case study [\[7\](#7)
 
+<br>
 | Product | Description |
 | ------- | ----------- |
 | MogoCard | Visa Platinum Prepaid Card |
