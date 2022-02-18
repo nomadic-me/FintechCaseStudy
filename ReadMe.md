@@ -22,7 +22,7 @@ The Credit Crisis of 2008 effected the twin brothers, Dave and Greg Feller, very
 
 ## Business Activities:
 
-### What specific financial problem is the company or project trying to solve?
+### The Financial Problem Mogo is trying to solve:
 
 These are the below products that are offered as part of MogoAccount as of the time of writing this case study<sup>[\[7\]](#7)</sup>
 
@@ -73,7 +73,7 @@ Mogo Inc. works with several of its Partners<sup>[\[9\]](#9)</sup>to stitch toge
 
 Since Mogo Inc. is in several domains for the sake of this case study, we will be considering *Personal Finance* as the primary domain of focus.
 
-### Major trends and innovations in Personal Finance over the last 5-10 years?
+### Major trends and innovations in Personal Finance over the last 5-10 years:
 
 The top three trends for the Personal Finance domain in the Finance Industry are:
 
@@ -84,7 +84,7 @@ Driven by rise in competition as well as several technological innovations such 
 * **Addition of Cryptocurrencies**
 Cryptocurrencies have definitely entered the 'mainstream' in the last few years. It's no longer a question of if, but a when will the companies in the personal finance space will support Cryptocurrency as an asset class in their platforms.
 
-### Other major companies
+### Other Major Companies
 
 Since Mogo Inc. actually offers several products, I've included a few notable competitors in each of the Product categories.
 
