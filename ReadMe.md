@@ -48,18 +48,18 @@ with its statements like environmentally conscious "Turn your every day purchase
 
 ### Technologies Used
 
-* Their frontend relies on Mobile Technology that works on both Android and iOS platforms
-* Amazon Web Services (or AWS) Public Cloud Infrastructure is used for the backend hosting as disclosed in their Privacy and Security Policy<sup>[\[8\]](#8)</sup>.
+* Their frontend relies on Mobile Technology that works on both **Android and iOS platforms**
+* **Amazon Web Services (or AWS) Public Cloud Infrastructure** is used for the backend hosting as disclosed in their Privacy and Security Policy<sup>[\[8\]](#8)</sup>.
 Mogo Inc. works with several of its Partners<sup>[\[9\]](#9)</sup>to stitch together and package its offerings.
-   * Their Identity Verification Sign-up process relies on Onfido<sup>[\[10\]](#10)</sup>
+   * Their Identity Verification Sign-up process relies on **Onfido**<sup>[\[10\]](#10)</sup>
      * Onfido Technology Stack <sup>[\[11\]](#11)</sup> consists of:
-       * NGINX Frontend
-       * Amazon CloudFront Backend  
-   * Their Cryptocurrency Exchange is based on CoinSquare
+       * **NGINX** Frontend
+       * **Amazon CloudFront** Backend  
+   * Their Cryptocurrency Exchange is based on **CoinSquare**
      * CoinSquare Technology Stack <sup>[\[12\]](#12)</sup> consists of:
-       * NGINX Frontend
-       * Google Cloud Platform Backend
- * The Helpcenter is based on the Zendesk SaaS <sup>[\[13\]](#13)</sup> offering. This can be observed by looking at the CDN used for hosting assets in the Helpcenter webpage sourcecode
+       * **NGINX** Frontend
+       * **Google Cloud Platform** Backend
+ * The Helpcenter is based on the **Zendesk** SaaS <sup>[\[13\]](#13)</sup> offering. This can be observed by looking at the CDN used for hosting assets in the Helpcenter webpage sourcecode.
    
 
 ## Landscape:
