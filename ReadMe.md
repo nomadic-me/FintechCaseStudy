@@ -1,4 +1,4 @@
-# Case Study: Mogo
+# Case Study: Mogo Inc.
 
 ## Overview and Origin
 
