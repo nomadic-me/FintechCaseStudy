@@ -28,6 +28,7 @@ The Credit Crisis of 2008 effected the twin brothers, Dave and Greg Feller, very
 These are the below products that are offered as part of MogoAccount as of the time of writing this case study [\[7\](#7)
 
 
+
 | Product | Description |
 | ------- | ----------- |
 | MogoCard | Visa Platinum Prepaid Card |
@@ -68,3 +69,4 @@ These are the below products that are offered as part of MogoAccount as of the t
 * <a id="5">[5]</a> Difference Capital [The Annual and Special Meeting of Shareholders](https://www.sec.gov/Archives/edgar/data/1602842/000147793219006239/mogo_ex410.htm)
 * <a id="6">[6]</a> News Wire [Mogo Secures New Credit Facility of up to $40 million from Fortress](https://www.newswire.ca/news-releases/mogo-secures-new-credit-facility-of-up-to-40-million-from-fortress-647762003.html)
 * <a id="7">[7]</a> Mogo Helpcentre: [Who is Mogo anyway?](https://helpcentre.mogo.ca/hc/en-us/articles/360042245353-Who-is-Mogo-anyway-)
+* 
