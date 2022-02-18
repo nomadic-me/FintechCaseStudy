@@ -78,16 +78,19 @@ Since Mogo Inc. is in several domains for the sake of this case study, we will b
 The top three trends for the Personal Finance domain in the Finance Industry are:
 
 * **Mobile First - Platform**
-Mostly driven by the consumer trend overall; Like most industries, the personal finance space has also embraced the mobile first approach.
+<br />Mostly driven by the consumer trend overall; Like most industries, the personal finance space has also embraced the mobile first approach.
+<br />
 * **Low / No Comissions Trade**
+<br />
 Driven by rise in competition as well as several technological innovations such as Payment for Orderflow; there has been an ongoing reduction in the all types of fees charged to end customers. This may include Management Fees, Transaction Fees, Annual Maintenance fees, etc
+<br />
 * **Addition of Cryptocurrencies**
+<br />
 Cryptocurrencies have definitely entered the 'mainstream' in the last few years. It's no longer a question of if, but a when will the companies in the personal finance space will support Cryptocurrency as an asset class in their platforms.
 
 ### Other Major Companies
 
 Since Mogo Inc. actually offers several products, I've included a few notable competitors in each of the Product categories.
-
 
 | Product | Description | Notable Competition |
 | ------- | ----------- | ------------------- |
