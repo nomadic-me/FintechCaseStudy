@@ -51,35 +51,69 @@ with its statements like environmentally conscious "Turn your every day purchase
 * Their frontend relies on Mobile Technology that works on both **Android and iOS platforms**
 * **Amazon Web Services (or AWS) Public Cloud Infrastructure** is used for the backend hosting as disclosed in their Privacy and Security Policy<sup>[\[8\]](#8)</sup>.
 Mogo Inc. works with several of its Partners<sup>[\[9\]](#9)</sup>to stitch together and package its offerings.
-   * Their Identity Verification Sign-up process relies on **Onfido**<sup>[\[10\]](#10)</sup>
-     * Onfido Technology Stack <sup>[\[11\]](#11)</sup> consists of:
-       * **NGINX** Frontend
-       * **Amazon CloudFront** Backend  
-   * Their Cryptocurrency Exchange is based on **CoinSquare**
-     * CoinSquare Technology Stack <sup>[\[12\]](#12)</sup> consists of:
-       * **NGINX** Frontend
-       * **Google Cloud Platform** Backend
- * The Helpcenter is based on the **Zendesk** SaaS <sup>[\[13\]](#13)</sup> offering. This can be observed by looking at the CDN used for hosting assets in the Helpcenter webpage sourcecode.
-   
+    * Their Identity Verification Sign-up process relies on **Onfido**<sup>[\[10\]](#10)</sup>
+        * Onfido Technology Stack<sup>[\[11\]](#11)</sup>consists of:
+            * **NGINX** Frontend
+            * **Amazon CloudFront** Backend
+    * Their Cryptocurrency Exchange is based on **CoinSquare**
+        * CoinSquare Technology Stack<sup>[\[12\]](#12)</sup>consists of:
+            * **NGINX** Frontend
+            * **Google Cloud Platform** Backend
+* The Helpcenter is based on the **Zendesk** SaaS<sup>[\[13\]](#13)</sup>offering. This can be observed by looking at the CDN used for hosting assets in the Helpcenter webpage source code.
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-* What are the other major companies in this domain?
+### Financial Industry Domains
+
+* Personal Finance
+* Investment / Wealth Management
+* Mortgage/Real Estate
+* Lending
+* Blockchain and Cryptocurrencies
+
+Since Mogo Inc. is in several domains for the sake of this case study, we will be considering *Personal Finance* as the primary domain of focus.
+
+### Major trends and innovations in Personal Finance over the last 5-10 years?
+
+The top three trends for the Personal Finance domain in the Finance Industry are:
+
+* **Mobile First - Platform**
+Mostly driven by the consumer trend overall; Like most industries, the personal finance space has also embraced the mobile first approach.
+* **Low / No Comissions Trade**
+Driven by rise in competition as well as several technological innovations such as Payment for Orderflow; there has been an ongoing reduction in the all types of fees charged to end customers. This may include Management Fees, Transaction Fees, Annual Maintenance fees, etc
+* **Addition of Cryptocurrencies**
+Cryptocurrencies have definitely entered the 'mainstream' in the last few years. It's no longer a question of if, but a when will the companies in the personal finance space will support Cryptocurrency as an asset class in their platforms.
+
+### Other major companies
+
+Since Mogo Inc. actually offers several products, I've included a few notable competitors in each of the Product categories.
+
+
+| Product | Description | Notable Competition |
+| ------- | ----------- | ------------------- |
+| MogoCard | Visa Platinum Prepaid Card | Stack Mastercard, KOHO Visa Card |
+| MogoProtect | Credit score monthly monitoring including Identity Fraud Protection | Equifax, TransUnion Canada |
+| MogoCrypto | Cryptocurrency Exchange | BitBuy, CoinSmart |
+| MogoMoney | Online Personal Loans | LoanConnect |
+| MogoMortgage | Smart Mortgage Solution | Ratehub |
 
 ## Results
 
-* What has been the business impact of this company so far?
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-* How is your company performing relative to competitors in the same domain?
+### Business impact:
+
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+### How is your company performing relative to competitors in the same domain?
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-* Why do you think that offering this product or service would benefit the company?
-* What technologies would this additional product or service utilize?
-* Why are these technologies appropriate for your solution?
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+### Why do you think that offering this product or service would benefit the company?
+
+### What technologies would this additional product or service utilize?
+
+### Why are these technologies appropriate for your solution?
 
 ## References
 
@@ -94,5 +128,5 @@ Mogo Inc. works with several of its Partners<sup>[\[9\]](#9)</sup>to stitch toge
 * <a id="9">[9]</a> Mogo Helpcentre: [Mogo Partnerships](https://helpcentre.mogo.ca/hc/en-us/articles/4403928049427-Mogo-Partnerships)
 * <a id="10">[10]</a> Mogo Helpcentre: [Identity Verification MogoCard](https://helpcentre.mogo.ca/hc/en-us/articles/4408635504019-Identity-Verification-Mogocard)
 * <a id="11">[11]</a> Stackshare.io [Onfido](https://stackshare.io/onfido/onfido)
-* <a id="12">[12]</a> Stackshare.io [CoinSquare]https://stackshare.io/coinsquare/coinsquare-com
+* <a id="12">[12]</a> Stackshare.io [CoinSquare](https://stackshare.io/coinsquare/coinsquare-com)
 * <a id="13">[13]</a> Stackshare.io [Zendesk](https://stackshare.io/zendesk#stacks)
