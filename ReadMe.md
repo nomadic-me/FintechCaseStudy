@@ -6,8 +6,8 @@
 
 "The company offers high interest loans, "identity fraud protection", mortgages, a Visa Prepaid Card, and credit score viewing through Equifax for select customers." [\[1\]](#1).
 
-* Company incorporated: 2003 [\[2\]](#2)
-* Founders of the company: David Feller [\[3\]](#3) and Greg Feller
+* **Company incorporated:** 2003 [\[2\]](#2)
+* **Founders of the company:** David Feller [\[3\]](#3) and Greg Feller
 
 ### The Founder Story:
 
@@ -22,7 +22,7 @@ The Credit Crisis of 2008 effected the twin brothers, Dave and Greg Feller, very
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* **What specific financial problem is the company or project trying to solve?**
 
 
 These are the below products that are offered as part of MogoAccount as of the time of writing this case study [\[7\]](#7)
@@ -36,8 +36,15 @@ These are the below products that are offered as part of MogoAccount as of the t
 | MogoMoney | Online Personal Loans |
 | MogoMortgage | Smart Mortgage Solution |
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
+
+In the early days, the company was geared towards customers who were looking for alternatives from the traditional banking institutions. 
+Nowadays, the company has broadened it's target customers to include anyone who is environmentally conscious. 
+
+* **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+
+
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company's engineering blog or use sites like Stackshare to find this information.)
 
 ## Landscape:
