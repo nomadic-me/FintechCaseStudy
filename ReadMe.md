@@ -171,5 +171,5 @@ Core Metrics: Based on Q3 Investors Presentation on the Mogo Investor Relationsh
 * <a id="11">[11]</a> Stackshare.io [Onfido](https://stackshare.io/onfido/onfido)
 * <a id="12">[12]</a> Stackshare.io [CoinSquare](https://stackshare.io/coinsquare/coinsquare-com)
 * <a id="13">[13]</a> Stackshare.io [Zendesk](https://stackshare.io/zendesk#stacks)
-* <a id="14">[14]</a> [Mogo Investor Relations](https://investors.mogo.ca/) [Management’s Discussion and Analysis](https://assets.ctfassets.net/20580h26mi6y/2vRnsv8B2MrznmAce4yPBJ/8ef8133934817cd51f7a88c3cf5c1b51/Q3_2021_MD_A.pdf)
-* <a id="15">[15]</a> [Mogo Investor Relations](https://investors.mogo.ca/) [Q3 2021 Financial Statements](https://assets.ctfassets.net/20580h26mi6y/3VnurtkCZIjGPhDeoC95Wt/bce4646bcf20c2c0171b349785c40e82/Q3_2021_Financial_Statements.pdf)
+* <a id="14">[14]</a> [Mogo Investor Relations](https://investors.mogo.ca/): [Management’s Discussion and Analysis](https://assets.ctfassets.net/20580h26mi6y/2vRnsv8B2MrznmAce4yPBJ/8ef8133934817cd51f7a88c3cf5c1b51/Q3_2021_MD_A.pdf)
+* <a id="15">[15]</a> [Mogo Investor Relations](https://investors.mogo.ca/): [Q3 2021 Financial Statements](https://assets.ctfassets.net/20580h26mi6y/3VnurtkCZIjGPhDeoC95Wt/bce4646bcf20c2c0171b349785c40e82/Q3_2021_Financial_Statements.pdf)
