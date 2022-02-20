@@ -148,17 +148,35 @@ Core Metrics: Based on Q3 Investors Presentation on the Mogo Investor Relationsh
 
 ## Recommendations
 
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### Expanding on B2B
+Mogo Inc has several products in the pipleline in the consumer finance world. They could horizontally expand on their B2B Market segment based on their Carta acquisition. They could expand on their sustainability offerings - by offering other financial companies in Canada white-labeled solutions for eco-conscious offerings such as "Planting More Trees" and "Green Bitcoin".
 
-### Why do you think that offering this product or service would benefit the company?
+### Upside Opportunity:
+Creating and expanding on offering (to other finance companies) in the "Suitability in Personal Finance" space - they have a possibility to multiply their positive ecological impact. This could first be created as a white-labeled option and eventually evolve into a marketplace for finance companies to exchange and build off each others offerings. 
 
-### What technologies would this additional product or service utilize?
 
-### Why are these technologies appropriate for your solution?
+### Potential technologies:
+It is obvious that additional requirements need to be gathered before discussing the pure-play technology layer. However, as a brain-storming exercise; we could automated B2B offerings using self-executing blockchain based smart contract on a decentralized Hyperledger to really unlock the full potential of a Future marketplace. 
+The main components of such a solution would include a decentralized Hyperledger/ Blockchain as a foundation, an Identity management layer to enable issuing credentials / smart contracts and the schema of the offerings.  
+
+
+### Advantages of using the recommended Technology:
+
+The use of self executing smart contracts have several advantages such as:
+
+Autonomy: Once defined, these contracts would be self-executing.  
+
+Steamlined: The high degree of automation would enable the overlayed business processes to be streamlined
+
+Record Keeping: The use of a cryptographic blockchain would serve as a basis for permanent and non-repudiable record keeping
+
+Security: The Cryptographic encryption typically implies security 
+
+Backup: 
 
 ## References
 
-* <a id="1">[1]</a> Bloomberg, October 30th, 2017 by Doug Alexander [Another Company Surges After Announcing Plans to Get Into Cryptocurrencies](https://www.bloomberg.com/news/articles/2017-10-30/mogo-soars-24-after-saying-it-added-blockchain-capabilities)
+* <a id="1">[1]</a> Bloomberg, Doug Alexander [Another Company Surges After Announcing Plans to Get Into Cryptocurrencies](https://www.bloomberg.com/news/articles/2017-10-30/mogo-soars-24-after-saying-it-added-blockchain-capabilities)
 * <a id="2">[2]</a> Canada's Business Registries 🔍: [Mogo Inc](https://beta.canadasbusinessregistries.ca/search/results?search=%7BMogo%20Inc%7D&status=Active)
 * <a id="3">[3]</a> Profile and Biography - Bloomberg.com [David Feller. Chairman/CEO/Founder, Mogo Inc.](https://www.bloomberg.com/profile/person/19176207#:~:text=Listen-,David,%2FCEO%2FFounder%2C%20Mogo%20Inc)
 * <a id="4">[4]</a> Financial Post: [How a former Lehman banker and his twin brother’s credit crisis experiences helped shape Mogo](https://financialpost.com/news/fp-street/how-a-former-lehman-banker-and-his-twin-brothers-credit-crisis-experiences-helped-shape-mogo)
