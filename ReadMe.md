@@ -105,9 +105,46 @@ Since Mogo Inc. actually offers several products, I've included a few notable co
 
 ### Business impact:
 
-### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Business Impact: Based on Management’s Discussion and Analysis <sup>[\[14\]](#14)</sup> released on 10<sup>th</sup> Nov 2021 published at the Mogo Investor Relationships. 
+
+#### **Mogo members** 
+Total member base grew approximately 64% to 1,766,000 members as of September 30, 2021 year on year. The continuous increase in member base, reflects increased brand awareness through their marketing.
+
+#### **‘Green’ bitcoin**
+Launched ‘green’ bitcoin, an initiative which makes all bitcoin purchased on the Mogo platform climate positive reaffirming Mogo’s commitment to being a leader in sustainable finances. 
+
+#### **Fortification Capital Inc:** 
+Acquisition of Fortification Capital Inc. (“Fortification”), subsequently renamed to MogoTrade Inc, brings the necessary licenses, registration and technology to develop MogoTrade. 
+
+#### **MogoTrade CI Investments Services:**
+ New partnership with CI Investments Services Inc. to to support commission free stock trading solution (“MogoTrade”) that is currently in development.
+
+#### **MogoInvest** 
+Is automated wealth building product based on recently acquired Moka Finance Technologies Inc. (“Moka”) planned to be released in 2022
+
+#### **CoinSquare:**
+Mogo acquired approximately 39% of Coinsquare Ltd. (“Coinsquare”) consistent with their belief in cryptocurrencies and its importance in a comprehensive digital wallet for Canadians. 
+
+#### **Carta Solutions Holding**
+The acquisition of Carta Solutions Holding Corporation, a leader in digital payment solutions, adds a business-to-business payments platform to the Company and is expected to significantly expand Mogo’s total addressable market by entering the global payments market. 
+
+### Core Metrics and Performance:
+
+Core Metrics: Based on Q3 Investors Presentation on the Mogo Investor Relationships <sup>[\[15\]](#15)</sup>
+
+| Metric |  Value |
+| ------- | ----------- |
+| Members 1.8M | Up 64% Year over Year |
+| Subscription and Services Revenue | 126% Year on Year over Year Growth |
+| Payment Volumen	$2.4 Billion | up 65% year over Year |
+| Cash, Investments & Digital Assets | $64 Million |
+| Trees Planted	| 500K+ |
+| Ownership of Coinsquare | ~ 39% |
+
 
 ### How is your company performing relative to competitors in the same domain?
+
+
 
 ## Recommendations
 
@@ -134,3 +171,5 @@ Since Mogo Inc. actually offers several products, I've included a few notable co
 * <a id="11">[11]</a> Stackshare.io [Onfido](https://stackshare.io/onfido/onfido)
 * <a id="12">[12]</a> Stackshare.io [CoinSquare](https://stackshare.io/coinsquare/coinsquare-com)
 * <a id="13">[13]</a> Stackshare.io [Zendesk](https://stackshare.io/zendesk#stacks)
+* <a id="14">[14]</a> [Mogo Investor Relations](https://investors.mogo.ca/) [Management’s Discussion and Analysis](https://assets.ctfassets.net/20580h26mi6y/2vRnsv8B2MrznmAce4yPBJ/8ef8133934817cd51f7a88c3cf5c1b51/Q3_2021_MD_A.pdf)
+* <a id="15">[15]</a> [Mogo Investor Relations](https://investors.mogo.ca/) [Q3 2021 Financial Statements](https://assets.ctfassets.net/20580h26mi6y/3VnurtkCZIjGPhDeoC95Wt/bce4646bcf20c2c0171b349785c40e82/Q3_2021_Financial_Statements.pdf)
