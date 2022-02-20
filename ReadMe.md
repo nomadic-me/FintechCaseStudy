@@ -163,14 +163,10 @@ The main components of such a solution would include a decentralized Hyperledger
 ### Advantages of using the recommended Technology:
 
 The use of self executing smart contracts have several advantages such as:
-
-Autonomy: Once defined, these contracts would be self-executing.  
-
-Steamlined: The high degree of automation would enable the overlayed business processes to be streamlined
-
-Record Keeping: The use of a cryptographic blockchain would serve as a basis for permanent and non-repudiable record keeping
-
-Security: The Cryptographic encryption typically implies security 
+* **Autonomy:** Once defined, these contracts would be self-executing.  
+* **Steamlined:** The high degree of automation would enable the overlayed business processes to be streamlined
+* **Record Keeping:** The use of a cryptographic blockchain would serve as a basis for permanent and non-repudiable record keeping
+* **Security:** The Cryptographic encryption typically implies security 
 
 Backup: 
 
