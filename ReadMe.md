@@ -105,70 +105,83 @@ Since Mogo Inc. actually offers several products, I've included a few notable co
 
 ### Business impact:
 
-Business Impact: Based on Management’s Discussion and Analysis <sup>[\[14\]](#14)</sup> released on 10<sup>th</sup> Nov 2021 published at the Mogo Investor Relationships. 
+Business Impact: Based on Management’s Discussion and Analysis<sup>[\[14\]](#14)</sup>released on 10<sup>th</sup>Nov 2021 published at the Mogo Investor Relationships.
 
-#### **Mogo members** 
+#### **Mogo members**
+
 Total member base grew approximately 64% to 1,766,000 members as of September 30, 2021 year on year. The continuous increase in member base, reflects increased brand awareness through their marketing.
 
 #### **‘Green’ bitcoin**
-Launched ‘green’ bitcoin, an initiative which makes all bitcoin purchased on the Mogo platform climate positive reaffirming Mogo’s commitment to being a leader in sustainable finances. 
 
-#### **Fortification Capital Inc:** 
-Acquisition of Fortification Capital Inc. (“Fortification”), subsequently renamed to MogoTrade Inc, brings the necessary licenses, registration and technology to develop MogoTrade. 
+Launched ‘green’ bitcoin, an initiative which makes all bitcoin purchased on the Mogo platform climate positive reaffirming Mogo’s commitment to being a leader in sustainable finances.
+
+#### **Fortification Capital Inc:**
+
+Acquisition of Fortification Capital Inc. (“Fortification”), subsequently renamed to MogoTrade Inc, brings the necessary licenses, registration and technology to develop MogoTrade.
 
 #### **MogoTrade CI Investments Services:**
- New partnership with CI Investments Services Inc. to to support commission free stock trading solution (“MogoTrade”) that is currently in development.
 
-#### **MogoInvest** 
+New partnership with CI Investments Services Inc. to to support commission free stock trading solution (“MogoTrade”) that is currently in development.
+
+#### **MogoInvest**
+
 Is automated wealth building product based on recently acquired Moka Finance Technologies Inc. (“Moka”) planned to be released in 2022
 
 #### **CoinSquare:**
-Mogo acquired approximately 39% of Coinsquare Ltd. (“Coinsquare”) consistent with their belief in cryptocurrencies and its importance in a comprehensive digital wallet for Canadians. 
+
+Mogo acquired approximately 39% of Coinsquare Ltd. (“Coinsquare”) consistent with their belief in cryptocurrencies and its importance in a comprehensive digital wallet for Canadians.
 
 #### **Carta Solutions Holding**
-The acquisition of Carta Solutions Holding Corporation, a leader in digital payment solutions, adds a business-to-business payments platform to the Company and is expected to significantly expand Mogo’s total addressable market by entering the global payments market. 
+
+The acquisition of Carta Solutions Holding Corporation, a leader in digital payment solutions, adds a business-to-business payments platform to the Company and is expected to significantly expand Mogo’s total addressable market by entering the global payments market.
 
 ### Core Metrics and Performance:
 
-Core Metrics: Based on Q3 Investors Presentation on the Mogo Investor Relationships <sup>[\[15\]](#15)</sup>
+Core Metrics: Based on Q3 Investors Presentation on the Mogo Investor Relationships<sup>[\[15\]](#15)</sup>
 
-| Metric |  Value |
-| ------- | ----------- |
+| Metric | Value |
+| ------ | ----- |
 | Members 1.8M | Up 64% Year over Year |
 | Subscription and Services Revenue | 126% Year on Year over Year Growth |
 | Payment Volumen	$2.4 Billion | up 65% year over Year |
 | Cash, Investments & Digital Assets | $64 Million |
-| Trees Planted	| 500K+ |
-| Ownership of Coinsquare | ~ 39% |
+| Trees Planted | 500K+ |
+| Ownership of Coinsquare | \~ 39% |
 
+### Performance in relation to its Competitors:
 
-### How is your company performing relative to competitors in the same domain?
+In general, the other Competitors in the pure-play personal finance space have been doing well. They have macro factors (such as renewed consumer interest in personal finance, etc) supporting their growth.
 
+However the companies in the "Lending" space have taken a hit during the Covid-19 Pandemic.
+Following the trend, companies in the lending space have had to recalibrate their earnings expectations resulting from the losses due to pandemic.
 
+Another important factor to be considered for Mogo's performances compared to its competitors is its appetite for Acquisitions and partnerships. Due to such a high "volume" of mergers and acquisitions by Mogo - when compared to its peers; its clear that Mogo Inc management has a clear vision and are still on the path of executing on that vision. The higher than average mergers and acquisitions by Mogo Inc - also implies a higher than average volatility in its quarterly financial statements as seen in their Q3 Investors Presentation on the Mogo Investor Relationships<sup>[\[15\]](#15)</sup>
 
 ## Recommendations
 
 ### Expanding on B2B
+
 Mogo Inc has several products in the pipleline in the consumer finance world. They could horizontally expand on their B2B Market segment based on their Carta acquisition. They could expand on their sustainability offerings - by offering other financial companies in Canada white-labeled solutions for eco-conscious offerings such as "Planting More Trees" and "Green Bitcoin".
 
 ### Upside Opportunity:
-Creating and expanding on offering (to other finance companies) in the "Suitability in Personal Finance" space - they have a possibility to multiply their positive ecological impact. This could first be created as a white-labeled option and eventually evolve into a marketplace for finance companies to exchange and build off each others offerings. 
 
+Creating and expanding on offering (to other finance companies) in the "Suitability in Personal Finance" space - they have a possibility to multiply their positive ecological impact. This could first be created as a white-labeled option and eventually evolve into a marketplace for finance companies to exchange and build off each others offerings.
 
 ### Potential technologies:
-It is obvious that additional requirements need to be gathered before discussing the pure-play technology layer. However, as a brain-storming exercise; we could automated B2B offerings using self-executing blockchain based smart contract on a decentralized Hyperledger to really unlock the full potential of a Future marketplace. 
-The main components of such a solution would include a decentralized Hyperledger/ Blockchain as a foundation, an Identity management layer to enable issuing credentials / smart contracts and the schema of the offerings.  
 
+It is obvious that additional requirements need to be gathered before discussing the pure-play technology layer. However, as a brain-storming exercise; we could automated B2B offerings using self-executing blockchain based smart contract on a decentralized Hyperledger to really unlock the full potential of a Future marketplace.
+The main components of such a solution would include a decentralized Hyperledger/ Blockchain as a foundation, an Identity management layer to enable issuing credentials / smart contracts and the schema of the offerings.
 
 ### Advantages of using the recommended Technology:
 
 The use of self executing smart contracts have several advantages such as:
-* **Autonomy:** Once defined, these contracts would be self-executing.  
+
+* **Autonomy:** Once defined, these contracts would be self-executing.
 * **Steamlined:** The high degree of automation would enable the overlayed business processes to be streamlined
 * **Record Keeping:** The use of a cryptographic blockchain would serve as a basis for permanent and non-repudiable record keeping
-* **Security:** The Cryptographic encryption typically implies security 
+* **Security:** The Cryptographic encryption typically implies security
 
-Backup: 
+Backup:
 
 ## References
 
